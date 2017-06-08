@@ -1,0 +1,31 @@
+p {
+  margin: 0;
+  color: white;
+}
+
+table, th, td {
+   border: 2px solid black;
+   margin: 0px;
+   padding: 0px;
+}
+
+table {
+  background: #FC4A1A;
+  table-layout: fixed;
+  height:100%;
+}
+
+th {
+  color: white;
+  height: 64px;
+}
+
+tr {
+  height:100%;
+}
+
+tr .time-slot-holder {
+  background: #4ABDAC;
+  height: 100%;
+  padding: 10px;
+}
