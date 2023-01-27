@@ -8,7 +8,7 @@ Required Java to run, the output html file is a simple representation of the out
 
 ## Explanation
 
-The timetabling process is one that is not easily solved by computers. For this reason the problem is known as NP-complete, which is to say it cannot be completed in polynomial time. To solve this problem there are a few different approaches as covered in my disserations research. In the end I decided upon using a genetic algorithm. Genetic algorithms are a powerful solution to NP-complete problems as the algorithm can be stopped at any point and produce a valid output. As a optimisation technique generating the initial population randomly allows for the process to be improved upon. The random nature of this process allows for different solutions with every generation.
+The timetabling process is one that is not easily solved by computers. The problem is known as NP-complete, which is to say it cannot be completed in polynomial time. To solve this problem there are a few different approaches as covered in my disserations research. I decided upon using a genetic algorithm. Genetic algorithms are a powerful solution to NP-complete problems as the algorithm can be stopped at any point and produce a valid output. As a optimisation technique generating the initial population randomly allows for the process to be improved upon. The random nature of this process allows for different solutions with every generation.
 
 ## Genetic Algorithm
 
